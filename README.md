@@ -1,4 +1,4 @@
 # MNISTClassifier
 Neural Network machine learning model trained using MNIST data set. 
 
-created from online tutorial
+created from an online tutorial.
